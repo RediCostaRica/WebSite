@@ -273,6 +273,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     display: block;
 }
 
+.fixed-nav .logo{
+    margin-top: 3px;
+}
+
 #nav:not(.nav-transparent):not(.fixed-nav) .navbar-brand .logo-alt {
 	display: none;
 }
